@@ -1,3 +1,15 @@
 [submodule "week-1-assignment-burcusevinc"]
 	path = week-1-assignment-burcusevinc
 	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-burcusevinc.git
+[submodule "week-2-assignment-burcusevinc"]
+	path = week-2-assignment-burcusevinc
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-2-assignment-burcusevinc.git
+[submodule "week-3-assignment-burcusevinc"]
+	path = week-3-assignment-burcusevinc
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-burcusevinc.git
+[submodule "week-4-assignment-burcusevinc"]
+	path = week-4-assignment-burcusevinc
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-burcusevinc.git
+[submodule "week-5-assignment-burcusevinc"]
+	path = week-5-assignment-burcusevinc
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-5-assignment-burcusevinc.git
