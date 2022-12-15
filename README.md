@@ -1,2 +1,2 @@
 # Modanisa-Fullstack-Bootcamp
-Assignments using Golang, Vue.js and TDD
+Modanisa Fullstack Bootcamp/Patika.dev weekly assignments using HTML, CSS, JS, Vue.js, Golang, and TDD.
